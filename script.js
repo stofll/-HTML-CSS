@@ -209,7 +209,7 @@ const FourOhFour = () => {
   return /*#__PURE__*/(
     React.createElement(AppShell, null, /*#__PURE__*/
     React.createElement(Container, null, /*#__PURE__*/
-    React.createElement(Message, { className: "return-link", href: "https://t.me/stofll", rel: "noreferrer noopener" }, "Find Artem"), /*#__PURE__*/
+    React.createElement(Message, { className: "return-link", href: "https://t.me/stofll", rel: "noreferrer noopener" }, "9.2 Задание"), /*#__PURE__*/
 
 
     React.createElement(Logo, { className: "bear-logo--tears" }), /*#__PURE__*/
